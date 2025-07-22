@@ -30,7 +30,7 @@ This dashboard helps organizations:
 
 ## 🖼️ Dashboard Preview  
 
-![Dashboard Preview](screenshot.png)  
+![Dashboard Preview](https://github.com/aditya31j/HR-Analytics-Dashboard/blob/main/HR%20Dashboard%20Screenshot.png)  
 
 ---
 
